@@ -1,0 +1,188 @@
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+
+
+/* 
+    Created on : Apr, 2013, 01:15:32 AM
+    Author     : vaibhav singh
+*/
+
+.homepage-back{
+    background-color: #945ad6;
+}
+body {
+	background-color: #945ad6;
+	background-repeat: no-repeat;
+	align-content: center;
+/*	 background-image: linear-gradient(#7d31d4,#7d31d4);*/
+	background-size: 100%;
+	opacity: 2;
+}
+
+table{
+    margin-top: -4%;
+}
+.heading-text{
+    font-weight: bold;
+    text-align: center;
+}
+
+.nav-option-search{
+    text-align: right;
+}
+.booking-session{
+    margin-top: -64%;
+    margin-left: 2%;
+    font-weight: bold;
+}
+
+.book-detail-bodytext{
+    margin-top: 2%;
+    margin-left: 4%;
+}
+
+.book-detail-table{
+    margin-left: 7%;
+    
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.login-span{
+    color: #fff;
+    font-size: 14px;
+}
+
+a:hover {
+	text-decoration: none;
+	color: blue;
+}
+
+#d1 {
+	display: flex;
+}
+.body-text{
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    
+}
+.nav-option{
+    margin-left: 33%;
+    margin-top: 3%;
+}
+#d3 {
+	width: 50%;
+	height: 100%;
+	position: absolute;
+/*	left: 50%;*/
+        margin-left: 70%;
+        margin-top: 2%;
+}
+
+#d4>h1 {
+	background-color: #7d31d4;
+        color: #fff;
+}
+
+#d2 {
+	display: flex;
+	align-items: center;
+	/* Use another value to see the result */
+	width: 100%;
+	height: 200px;
+}
+
+#d2>div {
+	width: 50%;
+	height: 100%;
+	margin: 2px;
+	border-radius: 3px;
+}
+
+.loginbox {
+	width: 320px;
+	height: 420px;
+	backface-visibility: visible;
+	color: #fff;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	padding: 70px 30px;
+	background-color: black;
+	opacity: 0.7;
+}
+
+.avatar {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	position: absolute;
+	top: -50px;
+	left: calc(50% - 50px);
+}
+
+.c2 {
+	border-radius: 6px;
+	background-color: #f44336;
+	margin-top: 10 px;
+	font-size: 15px
+}
+
+div {
+	color: black;
+}
+
+#d6 {
+	color: white;
+	background-color: black;
+	opacity: 0.7;
+	width: 320px;
+	height: 470px;
+}
+
+#d8 {
+	color: white;
+	background-color: black;
+	opacity: 0.7;
+	width: 320px;
+	height: 320px;
+}
+
+.login-top{
+    margin-left: 80%;
+    margin-top: -3%;
+}
+.login-head-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    background-color: #7d45a3;
+}
+
+.search-input-label{
+    color: #fff;
+}
+.search-input{
+    margin-top: 25%;
+    margin-bottom: 20%;
+    
+}
+
+.signup-input{
+    margin-top: 10%;
+    text-align: center;
+}
+
+.login-servlet-body{
+    background-color: #945ad6;
+}
+
